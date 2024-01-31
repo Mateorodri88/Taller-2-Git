@@ -17,4 +17,4 @@ for _ in range(simulaciones):
 # Probabilidad de exceso de capacidad
 probabilidad_exceso = excesos / simulaciones
 
-probabilidad_exceso
+print(probabilidad_exceso)
