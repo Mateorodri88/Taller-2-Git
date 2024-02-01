@@ -3,7 +3,7 @@ import random
 # Parámetros
 volumen_maximo = 500  # Volumen máximo de vehículos por hora
 capacidad_via = 400   # Capacidad de la vía en vehículos por hora
-simulaciones = 15000  # Número de simulaciones
+simulaciones = 150  # Número de simulaciones a 150
 
 # Contador para las veces que el volumen de tráfico excede la capacidad de la vía
 excesos = 0
